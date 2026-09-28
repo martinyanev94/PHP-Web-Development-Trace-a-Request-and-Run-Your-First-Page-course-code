@@ -1,0 +1,2 @@
+# PHP-Web-Development-Trace-a-Request-and-Run-Your-First-Page-course-code
+Learn the PHP request-to-response workflow by running your first PHP page locally. In this project-centered introduction, you’ll connect the browser, web server, PHP processor, and document area to see how a simple request becomes generated page output. You’ll learn how to: - Identify the roles of the browser, web server, PHP processor, and coding 
